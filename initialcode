@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+  <HTML>
+    <head>
+      <meta charset="utf-8">
+      <link href= "style.css" type="text/css" rel="stylesheet">
+      <title> Coding Falcons </title>
+    </head>
+    <body>
+      <h1> Fall Session of Coding Falcons </h1>
+      <p> HELLO WORLD! This is the best coding crew in the PNW.  I have 7 kiddos that love webdev, especially HTML!<p>
+<ul>This is why we're cool:</ul>
+  <li>We're building websites</li>
+  <li>We're learning computer hacking skills</li>
+<p>
+  here is a link:
+  <img src="http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-21.jpg">
+</p>
+
+    </body>
+    </html>
