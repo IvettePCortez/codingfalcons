@@ -1,0 +1,98 @@
+body{
+  width: auto;
+  background: #FAF9F4;
+}
+.htmlbanner{
+  height: 130px;
+  width: auto;
+  font-size-adjust: auto;
+  padding-top: 0px;
+  margin-top: 0px;
+  background: /*url(http://res.cloudinary.com/amorvidavi/image/upload/e_contrast:0/v1514955221/htmlbanner_cpnqcs.png);
+  background-size: cover;
+  background-position: left; */
+  #52B4AF
+}
+
+
+h1{
+  position: relative;
+  font-style: italic;
+  font-weight: bold;
+  color: #9C6A8D;
+  text-align: right;
+  font-size: 50px;
+  padding-top: 40px;
+  padding-right: 30px;
+}
+
+h2{
+  color:#9C6A8D;
+  font: 10px;
+}
+
+nav {
+  color: #9C6A8D;
+  font-weight: bold;
+  display: inline-block;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas: 'left center right';
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 80px;
+  grid-gap: 5px;
+  width: 1000px;
+  height: 180px;
+  background-color: #B6DEDC;
+  padding-bottom: 100px;
+}
+
+.grid-left {
+  grid-area: left;
+  margin: 10px;
+  width: 300px;
+  height: 260px;
+
+}
+
+.grid-container p {
+text-align: center;
+color: #FAF9F4;
+margin: 10px 20px 10px 20px;
+padding-top: 70px;
+}
+.grid-center {
+  grid-area: center;
+  margin: 10px;
+  width: 300px;
+  height: 260px;
+  transform: rotateY(180deg);
+}
+.grid-right {
+  grid-area: right;
+  margin: 10px;
+  width: 300px;
+  height: 260px;
+}
+.grid-container div {
+  background-color: #665bc4;
+  width:auto;
+}
+
+.container {
+  margin-bottom: 100px;
+}
+
+img{
+  display: block;
+  text-align: center;
+}
+
+img {
+  width:50%;
+  height: auto;
+}
